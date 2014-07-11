@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">InputExample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="happyQuestion">Are you happy?</string>
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+    <string name="Name_question">What is your name?</string>
+
+</resources>
