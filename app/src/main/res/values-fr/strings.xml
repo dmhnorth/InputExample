@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EspanolInputExample</string>
+    <string name="hello_world">Hola, mundo</string>
+    <string name="action_settings">Confiuracion</string>
+    <string name="happyQuestion">Eres feliz?</string>
+    <string name="Yes">Si</string>
+    <string name="No">No</string>
+    <string name="Name_question">What is your name?</string>
+
+</resources>
